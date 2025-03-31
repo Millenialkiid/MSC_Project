@@ -1,4 +1,4 @@
-# MSC_Project
+# FS_Project
 This project analyzes the power characteristics of 3YSZ (Yttria-Stabilized Zirconia) and Inconel materials using data from a "Pzt.txt" file. It calculates the power per unit mass for 3YSZ and the Joule heating in Inconel, then plots these values against time.
 
 **Functionality:**
